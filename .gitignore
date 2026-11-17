@@ -1,0 +1,13 @@
+# Vivado generated files; keep the portable project file and selected build artifacts only.
+vivado/PackRight/PackRight.cache/
+vivado/PackRight/PackRight.runs/
+vivado/PackRight/PackRight.sim/
+vivado/PackRight/PackRight.hw/
+vivado/PackRight/PackRight.ip_user_files/
+*.jou
+*.log
+*.wdb
+*.dcp
+*.pb
+*.wdf
+*.rpx
