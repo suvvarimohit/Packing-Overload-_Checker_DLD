@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Nov 17 13:09:26 2026
+# Process ID: 16924
+# Current directory: C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/vivado/PackRight/PackRight.runs/synth_1
+# Command line: vivado.exe -log packright_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source packright_top.tcl
+# Log file: C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/vivado/PackRight/PackRight.runs/synth_1/packright_top.vds
+# Journal file: C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/vivado/PackRight/PackRight.runs/synth_1\vivado.jou
+# Running On: VLSI-WS14, OS: Windows, CPU Frequency: 3192 MHz, CPU Physical cores: 10, Host memory: 34124 MB
+#-----------------------------------------------------------
+source packright_top.tcl -notrace

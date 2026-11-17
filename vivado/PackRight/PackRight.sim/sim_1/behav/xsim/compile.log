@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/rtl/packright_logic.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module packright_logic
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/sim/tb_packright_logic.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_packright_logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/vivado/PackRight/PackRight.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

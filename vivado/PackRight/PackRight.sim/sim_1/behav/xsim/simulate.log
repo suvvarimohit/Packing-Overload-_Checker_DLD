@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Fatal: Expected ready with all items
+Time: 320 ns  Iteration: 0  Process: /tb_packright_logic/Initial16_3  Scope: tb_packright_logic  File: C:/Users/User.DESKTOP-KL79ADG.000/Downloads/PackRight_Vivado_Project/sim/tb_packright_logic.sv Line: 27
+$finish called at time : 320 ns
